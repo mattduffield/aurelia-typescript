@@ -1,0 +1,20 @@
+{
+  "list": [
+    "bundles/*",
+    "app.html",
+    "app.js",
+    "main.js",
+    "config.js",
+    "favicon.ico",
+    "index.html",
+
+    "lib/requirejs-typescript.js",
+    "node_modules/requirejs/require.js",
+    "node_modules/typescript/lib/typescript.js",
+    "node_modules/text/text.js",
+
+    "node_modules/aurelia-animator-css/dist/amd/*",
+    "node_modules/aurelia-fetch-client/dist/amd/*",
+    "node_modules/aurelia-http-client/dist/amd/*"
+  ]
+}
