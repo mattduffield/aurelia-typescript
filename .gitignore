@@ -22,6 +22,9 @@ Thumbs.db
 
 # Dependencies
 node_modules
+!export/node_modules
+
+.publish
 
 # Compiled files
 scripts
